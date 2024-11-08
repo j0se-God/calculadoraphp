@@ -1,0 +1,18 @@
+
+   table
+   {
+     background-color: lightgray;
+     background-size: 600%;
+     
+   }
+   body.b1
+   {
+     background-image: url(int.jpg);
+     background-size: cover;
+   }
+   body
+   {
+      background-image: url(piza.jpg);
+      background-size: cover;
+      background-position: initial;
+   }
